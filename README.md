@@ -1,2 +1,2 @@
 # abhidsmlai
-datascience ivm coursera
+datascience ibm coursera
